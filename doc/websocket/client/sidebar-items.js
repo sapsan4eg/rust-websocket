@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ParseError","Errors that can occur during parsing."]],"mod":[["builder","Everything you need to create a client connection to a websocket."]],"struct":[["Client","Represents a WebSocket client, which can send and receive messages/data frames."],["Url","A parsed URL record."]]});
